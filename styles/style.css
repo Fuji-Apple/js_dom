@@ -1,0 +1,11 @@
+.error{
+    -webkit-box-shadow: 0 0 3px 1px red;
+    -moz-box-shadow: 0 0 3px 1px red;
+    box-shadow: 0 0 3px 1px red;
+}
+
+.alert1{
+    color: red;
+    margin-bottom: 10px;
+    display: none;
+}
